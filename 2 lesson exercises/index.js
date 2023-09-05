@@ -16,6 +16,7 @@ console.log(undefined + 1); // NaN | number
 console.log(" \t \n" - 2); // -2 | number
 */
 
+/*
 // Comparisions
 console.log(5 > 4); // true
 console.log("apple" > "pineapple"); /* false - because it compares the position
@@ -28,3 +29,4 @@ console.log(null == "\n0\n"); // false
 console.log(0 == "\n0\n"); /* true - when comparing number to string JS automatically
 changes the data type of string to number and compares them*/
 console.log(null == +"\n0\n"); //false
+*/
