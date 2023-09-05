@@ -39,6 +39,8 @@ if (a + b < 4) {
     result = "Over";
 }
 
+// Ternary solution below:
+
 (a + b < 4) ? result = "Below" : result = "Over";
 */
 
@@ -58,6 +60,8 @@ if (login == "Employee") {
 } else {
     message = "";
 }
+
+// Ternary solution below:
 
 (login == "Employee") ? message = "Hello"
 : (login == "Director") ? message = "Greetings"
