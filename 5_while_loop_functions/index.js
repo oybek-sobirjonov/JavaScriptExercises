@@ -1,4 +1,20 @@
-// Problem ====================================
+// Problem 1 ============================================
+
+
+// Rewrite the code changing for with while without altering its behaviour
+// (th output should stay the same).
+
+// for(let i = 0; i < 3; i++) {
+//     alert( `number ${i}!` );
+// }
+
+// let i = 0;
+// while (i < 3) {
+//     alert( `number ${i}!` );
+//     i++;
+// }
+
+// Problem 2 ====================================
 
 // The following fuction returns true if the parameter age is greater than 18.
 // Otherwise it asks for a confirmation and returns its result.
@@ -21,7 +37,7 @@
 // }
 // console.log(checkAge(28));
 
-// Problem ====================================
+// Problem 3 ====================================
 
 // Function min(a,b) 
 // Write a function min(a,b) which returns the least of two numbers a and b.
@@ -49,7 +65,7 @@
 // }
 // console.log(min(a,b));
 
-// Problem ====================================
+// Problem 4 ====================================
 
 // Function pow(x,n)
 // Write a function pow(x,n) that returns x in power n. Or in other words, 
@@ -70,7 +86,7 @@
 // let pow = (x,n) => {return x ** n};
 // console.log(pow(x,n));
 
-// Problem ====================================
+// Problem 5 ====================================
 
 // Replace Function Expressions with arrow functions in the code below:
 // function ask(question, yes, no) {
@@ -90,4 +106,4 @@
 //     () => {console.log('No')}
 // );
 
-// Problem ====================================
+// Problem 6 ====================================
